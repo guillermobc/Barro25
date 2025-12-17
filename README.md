@@ -1,2 +1,2 @@
 # Barro25
-Data products for Barro et al. (2025)
+Catalog of Little Red Dots Presented in Barro et al. (2025)
